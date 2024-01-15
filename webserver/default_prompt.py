@@ -1,0 +1,2 @@
+def getprompts():
+    return "cute teen, sexy, photorealistic, highly detailed, beautiful, small breasts, covered in cum, shy, pink, hand in panties", "badly drawn, extra limbs, extra fingers, distorted, asian, extra hands, disconnected hands from arms"
